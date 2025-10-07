@@ -277,6 +277,32 @@
           </a>
         </div>
       </div>
+      <div class="projects_cards">
+              <div class="projects__cards_wrapper">
+              </div>
+              <div class="projects__cards_titles">
+                <h4>Bài tuần 14</h4>
+                <h3>Java Mail</h3>
+              </div>
+              <div class="projects__cards_links">
+                <a
+                  href="https://lab-4-1-modify-a-web-page-phantrongquii.onrender.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="project_link_button"
+                >
+                  Live Demo
+                </a>
+                <a
+                  href="https://github.com/Phanqui72/lab_4.1_Modify_a_web_page"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="project_link_button"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
     </div>
     <!-- end cards container -->
   </div>
